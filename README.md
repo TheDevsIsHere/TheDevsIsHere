@@ -27,6 +27,16 @@
   </p>
 </p>
 
+<h3 align="center">"If you'd like to support me, consider buying me a coffee!"</h3>
+<p align="center">
+  <br>
+    <a href="https://www.buymeacoffee.com/thedevsishere" target="_blank" rel="noopener">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=username&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff&" alt="Buy Me a Coffee">
+</a>
+  </a>
+</p>
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
